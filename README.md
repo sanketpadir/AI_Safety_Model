@@ -59,3 +59,4 @@ python src/evaluate.py
 # 6. Running the Streamlit App
 
 streamlit run app.py
+
